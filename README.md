@@ -1,7 +1,7 @@
 # Guess-number
 Guess the number Game
 <br>
-The Number Guessing Game is a simple and interactive Python program where the player attempts to guess a randomly selected number within a specified range. In this case, the range is set between 1 and 100. Here's an overview of how the game works:
+The Number Guessing Game is a simple and interactive Python program where the player attempts to guess a randomly selected number within a specified range. In this case, the range is set between 1 and 50. Here's an overview of how the game works:
 
 Initialization:
 The game starts by generating a random number between 1 and 100 using the random.randint function.
